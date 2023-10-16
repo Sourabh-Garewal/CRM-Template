@@ -1,0 +1,26 @@
+.navbar-logo-search{
+    margin-left: 10rem;
+}
+
+
+.nav-search-box{
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 10px;
+
+
+    .active{
+        border: none;
+    }
+    
+}
+::placeholder {
+    color: #b4b2b7 ;
+    font-size: 0.9rem;
+    // opacity: 1; /* Firefox */
+}
+
+.nav-icons a{
+    padding: 2px;
+}
